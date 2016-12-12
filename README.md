@@ -21,7 +21,7 @@ the user can select specific populations and directly compare their income distr
 
 Looking at the example above, let's imagine that the user clicks on Cook County, Illinois. They are interested in 
 exploring the income differences of highly educated men and women in this region. From the boxplot
-on the right, we see that the median man with a Master's Degree is at the 75th percentile for women
+on the left, we see that the median man with a Master's Degree is at the 75th percentile for women
 with the same level of education. This points towards significant gender inequality.
 
 This kind of analysis can be replicated across every county in the US, allowing the user to compare race, 
